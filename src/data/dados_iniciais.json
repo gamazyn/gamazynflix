@@ -1,185 +1,189 @@
 {
-  "categorias": [
-    {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
-  ]
+	"categorias": [
+		{
+			"titulo": "Tracks pra Programar de boas",
+			"link": "https://www.youtube.com/playlist?list=PLkg1J1OfUpbBEgkNhGof8WEOF_hR7VVD1",
+			"cor": "#A6D49F",
+			"link_extra": {
+				"text": "Aperta o play maluco!",
+				"url": "https://www.youtube.com/playlist?list=PLkg1J1OfUpbBEgkNhGof8WEOF_hR7VVD1"
+			},
+			"videos": [
+				{
+					"titulo": "NAVE ESPACIAL - Liu & Samantha Machado",
+					"url": "https://www.youtube.com/watch?v=LQ-7iWrVAxU"
+				},
+				{
+					"titulo": "AronChupa - I'm an Albatraoz | OFFICIAL VIDEO",
+					"url": "https://www.youtube.com/watch?v=Bznxx12Ptl0"
+				},
+				{
+					"titulo": "Liu & Luke ST - TUFAK",
+					"url": "https://www.youtube.com/watch?v=xIc8rtosaaI"
+				},
+				{
+					"titulo": "Dynoro - Hangover (Bass Boosted)",
+					"url": "https://www.youtube.com/watch?v=1A6kql6Jlz0"
+				},
+				{
+					"titulo": "J Balvin & Willy William - Mi Gente (Hugel Remix)",
+					"url": "https://www.youtube.com/watch?v=1BRBGwD65L8"
+				},
+				{
+					"titulo": "Meiko - Leave The Lights On (Eric Sidey Remix)",
+					"url": "https://www.youtube.com/watch?v=Co6fB8IKmwo"
+				},
+				{
+					"titulo": "Deepierro - Can't Get You Out Of My Head (Bass Boosted)",
+					"url": "https://www.youtube.com/watch?v=oQwmXDa7uao"
+				},
+				{
+					"titulo": "Alok & Sevenn - Symphonia (Official Music Video)",
+					"url": "https://www.youtube.com/watch?v=ouR15Yp-Ih4"
+				}
+			]
+		},
+		{
+			"titulo": "Animes",
+			"cor": "#987284",
+			"link_extra": {
+				"text": "Trailers de Animes dessa temporada (Summer 2020)",
+				"url": "https://www.youtube.com/playlist?list=PLvdPoYtCK3rNdMan6MhzwPq5VlKh92kt9"
+			},
+			"videos": [
+				{
+					"titulo": "The God of High School | TRAILER FINAL | Crunchyroll Original",
+					"url": "https://www.youtube.com/watch?v=_it_G6PJxbM"
+				},
+				{
+					"titulo": "Re:ZERO ~Starting Life in Another World~ Season 2 | TRAILER OFICIAL",
+					"url": "https://youtu.be/OD_ad1YiIvQ"
+				},
+				{
+					"titulo": "Sword Art Online Alicization War of Underworld | TRAILER OFICIAL",
+					"url": "https://youtu.be/naxFUEAIlkc"
+				},
+				{
+					"titulo": "Rent-a-Girlfriend | TRAILER OFICIAL",
+					"url": "https://youtu.be/0jcbEbYs72Q"
+				},
+				{
+					"titulo": "The Misfit of Demon King Academy | TRAILER OFICIAL",
+					"url": "https://youtu.be/24gT8SNWhdo"
+				}
+			]
+		},
+		{
+			"titulo": "Standup Comedy com Thiago Ventura",
+			"cor": "#F9B5AC",
+			"link_extra": {
+				"text": "Canal do Thiago Ventura",
+				"url": "https://www.youtube.com/channel/UCaLs_Nox5i_3KCVnsC_kttA"
+			},
+			"videos": [
+				{
+					"titulo": "TIGAS E OS 300 DE ESPARTA",
+					"url": "https://youtu.be/75fK0iwhxdE"
+				},
+				{
+					"titulo": "TIGAS E O BEACH PARK",
+					"url": "https://youtu.be/R288k4p6ZkU"
+				},
+				{
+					"titulo": "THIAGO VENTURA - MIAMI",
+					"url": "https://www.youtube.com/watch?v=IAzZnHwmBfc"
+				},
+				{
+					"titulo": "NOVO ESPECIAL | 02/07 NA NETFLIX",
+					"url": "https://youtu.be/JtUno3ETtSA"
+				}
+			]
+		},
+		{
+			"titulo": "Filmes",
+			"cor": "#EE7674",
+			"videos": [
+				{
+					"titulo": "Interestellar",
+					"url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+				},
+				{
+					"titulo": "Gattaca",
+					"url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+				},
+				{
+					"titulo": "TENET",
+					"url": "https://youtu.be/rZzxpHUipR8"
+				},
+				{
+					"titulo": "Primer",
+					"url": "https://www.youtube.com/watch?v=-vD-yj9o664"
+				},
+				{
+					"titulo": "Snowden",
+					"url": "https://www.youtube.com/watch?v=cJkp4blUyl8"
+				}
+			]
+		},
+		{
+			"titulo": "Games",
+			"cor": "#137547",
+			"link_extra": {
+				"text": "Formação de Jogos na Alura",
+				"url": "https://www.alura.com.br/formacao-jogos-unity"
+			},
+			"videos": [
+				{
+					"titulo": "Final Fantasy 7",
+					"url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+				},
+				{
+					"titulo": "Assassins Creed Valhalla",
+					"url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+				},
+				{
+					"titulo": "God of War 4",
+					"url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+				},
+				{
+					"titulo": "Demon's Souls - Announcement Trailer | PS5",
+					"url": "https://www.youtube.com/watch?v=2TMs2E6cms4"
+				},
+				{
+					"titulo": "Cyberpunk 2077 — Official Trailer — The Gig",
+					"url": "https://www.youtube.com/watch?v=ixl31324UxE"
+				}
+			]
+		},
+		{
+			"titulo": "Receitas do Jacão",
+			"cor": "#514B23",
+			"link_extra": {
+				"text": "Canal do Jacão",
+				"url": "https://www.youtube.com/channel/UCcHuI3TBzZfcYuLRxQwjY6w"
+			},
+			"videos": [
+				{
+					"titulo": "É ASSIM QUE FAÇO MAIONESE! | ERICK JACQUIN",
+					"url": "https://youtu.be/Ai2ANvomukY"
+				},
+				{
+					"titulo": "SOPA DE CEBOLA, A MAIS POPULAR DA FRANÇA! | ERICK JACQUIN",
+					"url": "https://www.youtube.com/watch?v=EmzkM26Z9RI&t=301s"
+				},
+				{
+					"titulo": "AMO E ODEIO BATATA FRITA! | ERICK JACQUIN",
+					"url": "https://youtu.be/dNGed9DxpI8"
+				},
+				{
+					"titulo": "CAMARÕES COM PALMITO ASSADO E O NOVO MENU DO PRÉSIDENT | ERICK JACQUIN",
+					"url": "https://youtu.be/FMeMpVwN98I"
+				},
+				{
+					"titulo": "QUANDO A VISITA DECIDE COZINHAR | ERICK JACQUIN",
+					"url": "https://youtu.be/F8pQRD9vejQ"
+				}
+			]
+		}
+	]
 }
