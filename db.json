@@ -2,21 +2,251 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Como não tiltar",
-      "descricao": "Mindfulness e afins",
-      "cor": "#6bd1ff"
+      "titulo": "Tracks pra Programar de boas",
+      "cor": "#A6D49F",
+      "link_extra": {
+        "text": "Aperta o play maluco!",
+        "url": "https://www.youtube.com/playlist?list=PLkg1J1OfUpbBEgkNhGof8WEOF_hR7VVD1"
+      }
     },
     {
       "id": 2,
-      "nome": "Como tiltar",
-      "descricao": "streams do jukera",
-      "cor": "red"
+      "titulo": "Animes",
+      "cor": "#987284",
+      "link_extra": {
+        "text": "Trailers de Animes dessa temporada (Summer 2020)",
+        "url": "https://www.youtube.com/playlist?list=PLvdPoYtCK3rNdMan6MhzwPq5VlKh92kt9"
+      }
     },
     {
       "id": 3,
-      "nome": "O pinto do meu pai",
-      "descricao": "Fugiu com a galinha da vizinha",
-      "cor": "red"
+      "titulo": "Standup Comedy com Thiago Ventura",
+      "cor": "#F9B5AC",
+      "link_extra": {
+        "text": "Canal do Thiago Ventura",
+        "url": "https://www.youtube.com/channel/UCaLs_Nox5i_3KCVnsC_kttA"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes",
+      "cor": "#EE7674",
+      "link_extra": {
+        "text": "Mais trailers no Youtube",
+        "url": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "#137547",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Receitas do Jacão",
+      "cor": "#514B23",
+      "link_extra": {
+        "text": "Canal do Jacão",
+        "url": "https://www.youtube.com/channel/UCcHuI3TBzZfcYuLRxQwjY6w"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "NAVE ESPACIAL - Liu & Samantha Machado",
+      "url": "https://www.youtube.com/watch?v=LQ-7iWrVAxU"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "AronChupa - I'm an Albatraoz | OFFICIAL VIDEO",
+      "url": "https://www.youtube.com/watch?v=Bznxx12Ptl0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Liu & Luke ST - TUFAK",
+      "url": "https://www.youtube.com/watch?v=xIc8rtosaaI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Dynoro - Hangover (Bass Boosted)",
+      "url": "https://www.youtube.com/watch?v=1A6kql6Jlz0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "J Balvin & Willy William - Mi Gente (Hugel Remix)",
+      "url": "https://www.youtube.com/watch?v=1BRBGwD65L8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Meiko - Leave The Lights On (Eric Sidey Remix)",
+      "url": "https://www.youtube.com/watch?v=Co6fB8IKmwo"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Deepierro - Can't Get You Out Of My Head (Bass Boosted)",
+      "url": "https://www.youtube.com/watch?v=oQwmXDa7uao"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Alok & Sevenn - Symphonia (Official Music Video)",
+      "url": "https://www.youtube.com/watch?v=ouR15Yp-Ih4"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "The God of High School | TRAILER FINAL | Crunchyroll Original",
+      "url": "https://www.youtube.com/watch?v=_it_G6PJxbM"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Re:ZERO ~Starting Life in Another World~ Season 2 | TRAILER OFICIAL",
+      "url": "https://youtu.be/OD_ad1YiIvQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Sword Art Online Alicization War of Underworld | TRAILER OFICIAL",
+      "url": "https://youtu.be/naxFUEAIlkc"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Rent-a-Girlfriend | TRAILER OFICIAL",
+      "url": "https://youtu.be/0jcbEbYs72Q"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "The Misfit of Demon King Academy | TRAILER OFICIAL",
+      "url": "https://youtu.be/24gT8SNWhdo"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "TIGAS E OS 300 DE ESPARTA",
+      "url": "https://youtu.be/75fK0iwhxdE"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "TIGAS E O BEACH PARK",
+      "url": "https://youtu.be/R288k4p6ZkU"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "THIAGO VENTURA - MIAMI",
+      "url": "https://www.youtube.com/watch?v=IAzZnHwmBfc"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "NOVO ESPECIAL | 02/07 NA NETFLIX",
+      "url": "https://youtu.be/JtUno3ETtSA"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Gattaca",
+      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "TENET",
+      "url": "https://youtu.be/rZzxpHUipR8"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Primer",
+      "url": "https://www.youtube.com/watch?v=-vD-yj9o664"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Snowden",
+      "url": "https://www.youtube.com/watch?v=cJkp4blUyl8"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "God of War 4",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Demon's Souls - Announcement Trailer | PS5",
+      "url": "https://www.youtube.com/watch?v=2TMs2E6cms4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Cyberpunk 2077 — Official Trailer — The Gig",
+      "url": "https://www.youtube.com/watch?v=ixl31324UxE"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "É ASSIM QUE FAÇO MAIONESE! | ERICK JACQUIN",
+      "url": "https://youtu.be/Ai2ANvomukY"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "SOPA DE CEBOLA, A MAIS POPULAR DA FRANÇA! | ERICK JACQUIN",
+      "url": "https://www.youtube.com/watch?v=EmzkM26Z9RI&t=301s"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "AMO E ODEIO BATATA FRITA! | ERICK JACQUIN",
+      "url": "https://youtu.be/dNGed9DxpI8"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "CAMARÕES COM PALMITO ASSADO E O NOVO MENU DO PRÉSIDENT | ERICK JACQUIN",
+      "url": "https://youtu.be/FMeMpVwN98I"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "QUANDO A VISITA DECIDE COZINHAR | ERICK JACQUIN",
+      "url": "https://youtu.be/F8pQRD9vejQ"
     }
   ]
 }
